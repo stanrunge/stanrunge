@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stanrunge
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me:
-  - Email: stanrunge03@gmail.com
+  - Email: stanrunge03@gmail.com / stanrunge@icloud.com
   - Discord: Stan#7652
   - Twitter: @stanrunge
 
