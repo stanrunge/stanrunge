@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @stanrunge
 - 🎮 Hosting tournaments over at CES
+- 📚 Software Engineering student at THUAS
 - 📫 How to reach me:
   - Email: stanrunge03@gmail.com
   - Discord: Stan#7652
