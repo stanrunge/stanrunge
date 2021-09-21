@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stanrunge
-- 🎮 Hosting tournaments over at CES
+- 🎮 Hosting gaming tournaments over at CES
 - 📚 Software Engineering student at THUAS
 - 📫 How to reach me:
   - Email: stanrunge@icloud.com
