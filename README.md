@@ -2,6 +2,6 @@
 - 🎮 Hosting gaming tournaments over at CES
 - 📚 Software Engineering student at THUAS
 - 📫 How to reach me:
-  - Email: stanrunge@icloud.com
+  - Email: stanrunge2003@outlook.com
   - Discord: Stan#7652
   - Twitter: @stanrunge
